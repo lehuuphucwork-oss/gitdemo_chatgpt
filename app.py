@@ -1,7 +1,7 @@
 def greet(name, language="en"):
     if language == "en":
-        print(f"Hello, {name}!")
-        print("This is version 2 of our app.")
+        print(f"Hello, {name}! Welcome to our amazing app.")
+        print("This is version 3 of our app.")
         print("Have a nice day!")
     elif language == "vi":
         print(f"Xin chào, {name}!")
